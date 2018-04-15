@@ -1,31 +1,10 @@
-# Adam Blog is a minimal clear theme for Jekyll
+# PLATFORM-INTERACTION.COM
 
-![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true)
-
-## Demo
-
-Check the theme in action [Demo](https://artemsheludko.github.io/adam-blog/)
-
-The main page would look like this:
-
-![Main page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-home-page.jpg?raw=true)
-
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-post-example.jpg?raw=true)
-
-## Features
-
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [MailChimp](https://mailchimp.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- [Search](https://github.com/christian-fei/Simple-Jekyll-Search)
-
-## Installation:
-
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+Digital platform businesses are challenging traditional organizational structures.
+A deceptively simple concept, the platform is radically transforming the global economy, and business and society at large.
+Platforms connect people and organizations in vibrant ecosystems in which goods, services, and information are exchanged at unprecedented scale.
+he platform business model is key to the most succesful and valuable companies on the planet.
+These businesses are driving an economic shift as profound as the Industrial Revolution. Join the journey of understanding what it means to live and prosper in this new era.
 
 ### License
 
