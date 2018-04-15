@@ -1,0 +1,55 @@
+title: Platform Interaction
+email: hello@platform-interaction.com
+description: > # this means to ignore newlines until "baseurl:"
+  Digital platform businesses are challenging traditional organizational structures.
+  A deceptively simple concept, the platform is radically transforming the global economy, and business and society at large.
+  Platforms connect people and organizations in vibrant ecosystems in which goods, services, and information are exchanged at unprecedented scale.
+  The platform business model is key to the most succesful and valuable companies on the planet.
+  These businesses are driving an economic shift as profound as the Industrial Revolution.
+  Join the journey of understanding what it means to live and prosper in this new era.
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings
+author: Platform Interaction # add your name
+# author-pic: pi-face.jpg
+about-author: >
+  Digital platform businesses are challenging traditional organizational structures.
+  A deceptively simple concept, the platform is radically transforming the global economy, and business and society at large.
+  Platforms connect people and organizations in vibrant ecosystems in which goods, services, and information are exchanged at unprecedented scale.
+  The platform business model is key to the most succesful and valuable companies on the planet. These businesses are driving an economic shift as profound as the Industrial Revolution. Join the journey of understanding what it means to live and prosper in this new era.
+
+# Contact links
+email: hello@platform-interaction.com # Add your Email address
+website: platform-interaction.com # Add your website, do not add http://
+linkedin: # Add your Linkedin handle
+github: platform-interaction # Add your Github handle
+twitter: # Add your Twitter handle
+facebook: # Add your Facebook handle
+instagram: # Add your Instagram handle
+pinterest: # Add your Pinterest handle
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus
+discus_identifier: mr-brown # Add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Paginate
+paginate: 6
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
