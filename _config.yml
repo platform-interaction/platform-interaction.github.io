@@ -14,11 +14,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Platform Interaction # add your name
 # author-pic: pi-face.jpg
-about-author: >
-  Digital platform businesses are challenging traditional organizational structures.
+about-author: Digital platform businesses are challenging traditional organizational structures.
   A deceptively simple concept, the platform is radically transforming the global economy, and business and society at large.
-  Platforms connect people and organizations in vibrant ecosystems in which goods, services, and information are exchanged at unprecedented scale.
-  The platform business model is key to the most succesful and valuable companies on the planet. These businesses are driving an economic shift as profound as the Industrial Revolution. Join the journey of understanding what it means to live and prosper in this new era.
+  <br><br>
+  Platforms connect people and organizations in vibrant ecosystems in which goods, services, and information are exchanged at unprecedented scale. The platform business model is key to the most succesful and valuable companies on the planet. These businesses are driving an economic shift as profound as the Industrial Revolution.
+  <br><br>
+  <b>Join the journey of understanding what it means to live and prosper in this new era.</b>
 
 # Contact links
 email: hello@platforminteraction.com # Add your Email address
