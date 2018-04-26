@@ -1,14 +1,10 @@
 ---
-published: false
----
----
 layout: post
-title: The forest in the fog
-date: 2017-08-20 13:32:20 +0300
+title: Essence of Platform
+date: 2018-04-26 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: # Add image post (optional)
-tags: [Blog, Meditation]
+img: post-6.jpg # Add image post (optional)
+tags: [Essence]
 author: # Add name author (optional)
 ---
-
-Platforms are **cool**!
+True.
